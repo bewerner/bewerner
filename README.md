@@ -1,4 +1,4 @@
-### Hi 👋, I'm Benjamin,
+### Hi, I'm Benjamin,
 
 currently studying at [42 Heilbronn](https://www.42heilbronn.de) since October 2023.
 
