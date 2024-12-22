@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi 👋, I'm Benjamin,
+
+currently studying at [42 Heilbronn](https://www.42heilbronn.de) since October 2023.
+
+<br>
+
+I have recently been working on [miniRT](https://github.com/bewerner/miniRT) a GPU-Raytracer.
+
+[![miniRT](https://github.com/bewerner/miniRT/blob/master/docs/title.png)](https://github.com/bewerner/miniRT/)
 
 <!--
 **bewerner/bewerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
