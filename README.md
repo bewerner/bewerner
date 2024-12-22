@@ -4,7 +4,7 @@ currently studying at [42 Heilbronn](https://www.42heilbronn.de) since October 2
 
 <br>
 
-I have recently been working on [miniRT](https://github.com/bewerner/miniRT) a GPU-Raytracer.
+I have recently been working on [miniRT](https://github.com/bewerner/miniRT), a GPU-Raytracer.
 
 [![miniRT](https://github.com/bewerner/miniRT/blob/master/docs/title.png)](https://github.com/bewerner/miniRT/)
 
