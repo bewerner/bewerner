@@ -1,10 +1,10 @@
 ### Hi, I'm Benjamin,
 
-currently studying at [42 Heilbronn](https://www.42heilbronn.de) since October 2023.
+currently studying software engineering at [42 Heilbronn](https://www.42heilbronn.de)
 
 <br>
 
-I have recently been working on [miniRT](https://github.com/bewerner/miniRT), a GPU-Raytracer.
+Have a look at my GPU-Raytracer: [miniRT](https://github.com/bewerner/miniRT)
 
 [![miniRT](https://github.com/bewerner/miniRT/blob/master/docs/title.png)](https://github.com/bewerner/miniRT/)
 
